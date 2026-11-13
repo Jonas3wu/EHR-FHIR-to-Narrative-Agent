@@ -1,0 +1,4 @@
+patient_id,patient_name,resource_type,resource_id,date,label,code,encounter_ref,subject_ref
+57ee3fbe-8320-2480-7b90-0e0980bd584c,Cornell131 Kareem959 Ratke343,Encounter,55d4e20e-10c7-1d0f-7533-e42d4eae3c5d,2016-04-19T16:33:40-08:00,General examination of patient (procedure),,Encounter/55d4e20e-10c7-1d0f-7533-e42d4eae3c5d,urn:uuid:55d4e20e-10c7-1d0f-ac7d-2a6a2aea29fd
+57ee3fbe-8320-2480-7b90-0e0980bd584c,Cornell131 Kareem959 Ratke343,Condition,55d4e20e-10c7-1d0f-90c9-5eab66e6fb18,2016-04-19T17:04:41-08:00,Gingivitis (disorder),224299000,urn:uuid:55d4e20e-10c7-1d0f-7533-e42d4eae3c5d,urn:uuid:55d4e20e-10c7-1d0f-ac7d-2a6a2aea29fd
+57ee3fbe-8320-2480-7b90-0e0980bd584c,Cornell131 Kareem959 Ratke343,MedicationRequest,55d4e20e-10c7-1d0f-e339-2fc4d53e0adb,2016-04-19T17:15:31-08:00,Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML,,urn:uuid:55d4e20e-10c7-1d0f-7533-e42d4eae3c5d,urn:uuid:55d4e20e-10c7-1d0f-ac7d-2a6a2aea29fd
