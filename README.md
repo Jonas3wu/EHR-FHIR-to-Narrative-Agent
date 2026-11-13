@@ -11,5 +11,4 @@ While this architecture is brilliant for system-to-system exchange and traceabil
 
 **The Solution**
 The goal of this pipeline is to transform raw, fragmented FHIR records into structured timelines and concise summaries that are easier for clinicians and researchers to review, interpret, and use at scale. While clinical experts can synthesize these records manually for individual cases, the manual process is slow, inconsistent, and impossible to scale across larger datasets or high-throughput clinical trial workflows.
-
-![Architecture Flowchart](fhir_pipeline_schema_aligned.jpg)
+![Architecture Flowchart](fhir_pipeline_schema_aligned.png)
